@@ -1,7 +1,9 @@
 #include<stdio.h>
 /**
- * it use puts to print
- * usen it
+ *main - it use puts to print
+ *
+ * Description: new
+ *Return: usen it
  */
 int main(void)
 {
