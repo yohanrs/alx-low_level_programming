@@ -1,5 +1,6 @@
 #include<stdio.h>
-/**it use puts to print
+/**
+ * it use puts to print
  * usen it
  */
 int main(void)
