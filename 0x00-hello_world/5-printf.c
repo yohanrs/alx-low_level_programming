@@ -1,12 +1,12 @@
 #include<stdio.h>
 /**
- * prinf - use prinf
+ * main - use prinf
  *
  * Description: printf
  * Return: 0
  */
 int main(void)
 {
-	printf("with proper grammer,but the outcome is a piece of art,");
+	printf("ith proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
