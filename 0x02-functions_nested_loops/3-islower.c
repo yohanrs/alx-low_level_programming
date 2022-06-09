@@ -10,7 +10,7 @@ int _islower(int c)
 {
 	int r;
 
-	r = islower (c);
+	r = islower(c);
 	if (r == 0)
 		return (r);
 	else
