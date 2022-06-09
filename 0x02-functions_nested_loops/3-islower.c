@@ -8,7 +8,7 @@ int _islower(int c)
 {
 	char i;
 
-	i = char(i);
+	i = char(c);
 
 	if (islower(i))
 		return (1);
