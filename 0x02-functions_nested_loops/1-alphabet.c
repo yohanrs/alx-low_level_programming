@@ -1,12 +1,20 @@
-#include"main.h"
+#include<stdio.h>
 /**
  * main - check the code
  *
  * Return: Always 0.
  *
  */
-int main(void)
+print_alphabet(void)
 {
-	print_alphabet();
+	char i;
+
+	i = 'a';
+	while (i <= 'z')
+	{
+		putchar(i);
+		i += 1;
+	}
+	putchar('\n');
 	return (0);
 }

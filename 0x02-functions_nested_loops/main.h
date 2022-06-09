@@ -10,14 +10,4 @@ void print(void)
 	return;
 }
 
-void print_alphabet(void)
-{
-	char i;
-
-	i = 'a';
-	while (i <= 'z')
-	{
-		putchar(i);
-		i += 1;
-	}
-}
+void print_alphabet(void);
