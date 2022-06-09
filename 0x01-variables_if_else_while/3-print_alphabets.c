@@ -5,7 +5,8 @@
  * Description: quote
  * Return: 0
  */
-int main(void){
+int main(void)
+{
 	char i;
 	char j;
 
