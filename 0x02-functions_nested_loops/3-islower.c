@@ -6,12 +6,8 @@
  */
 int _islower(int c)
 {
-	char i;
+	int r;
 
-	i = char(c);
-
-	if (islower(i))
-		return (1);
-	if (!islower(i))
-		return (0);
+	r = islower (c);
+	return (r);
 }
