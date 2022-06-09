@@ -3,13 +3,13 @@
  * main - main
  *
  * Description - nothing
- * Return - 0
+ * Return: 0
  */
-int main()
+int main(void)
 {
 	int i;
 	i = 0;
-	while (i <= 10)
+	while (i < 10)
 	{
 		printf("%d", i++);
 	}
