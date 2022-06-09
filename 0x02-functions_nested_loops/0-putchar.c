@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include "main.h" 
 /**
  * main - this is main fun
  *
@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	printf("_putchar");
+	print();
 	return (0);
 }
