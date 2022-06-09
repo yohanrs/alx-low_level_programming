@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<time.h>
+/**
+ * main - main
+ *
+ *Description: quote
+ * Return: 0
+ */
+int main(void)
+{
+	int n;
+	sreand(time(0));
+	n=rand()-RAND_MAX/2;
+	if(n>0)
+		printf("%d is positive");
+	else if(n<0)
+		printf("%d is negative",n);
+	else
+		printf("%d is zero",n);
+	return(0);
+}
