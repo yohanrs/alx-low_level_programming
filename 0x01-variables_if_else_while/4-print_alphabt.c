@@ -8,10 +8,8 @@
 int main(void)
 {
 	char i;
-	char j;
-
+	
 	i = 'a';
-	j = 'A';
 	while (i <= 'z')
 	{
 		if ( i != 'q' && i != 'e')
