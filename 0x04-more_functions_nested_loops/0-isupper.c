@@ -1,7 +1,7 @@
 #include"main.h"
 #include<ctype.h>
 /**
- * _islower - function  
+ * _isupper - function  
  *@c: first arg
  *
  * Return: int
