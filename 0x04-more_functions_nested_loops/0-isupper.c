@@ -1,5 +1,4 @@
 #include"main.h"
-#include<ctype.h>
 
 /**
  * _islower - function  
@@ -7,7 +6,7 @@
  *
  * Return: int
  */
-int _islower(int c)
+int _isupper(int c)
 {
 	int r;
 
