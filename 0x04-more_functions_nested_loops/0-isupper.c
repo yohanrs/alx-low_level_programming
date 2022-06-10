@@ -1,5 +1,5 @@
 #include"main.h"
-
+#include<ctype.h>
 /**
  * _islower - function  
  *@c: first arg
